@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em HTML5 </title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>
+        Tente abrir esse site em varios dispositivos diferentes ou simplesmente
+        aumente ou diminua o tamanho do seu navegador
+    </p>
+    <picture>
+        <source media="(max-width: 750px )" srcset="imagens-criadas-no-gimp/foto-p.png">
+        <source media="(max-width: 1020px)" srcset="imagens-criadas-no-gimp/foto-m.png">
+        <img src="imagens-criadas-no-gimp/foto-g.png" alt="imagem flexivel">
+    </picture>
+</body>
+</html>
