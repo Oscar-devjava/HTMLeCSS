@@ -9,5 +9,7 @@
         <li>Formatações de texto</li>
         <li>Imagens</li>
         <li>Links</li>
+        <li>Vídeos</li>
+        <li>Audios</li>
   </ol>
 </body>
