@@ -1,7 +1,7 @@
 ### 
 <body>
   <h1> HTML5 e CSS - Curso em vídeo </h1>
-  <p>Projeto 001</p>
+  <h2>Modulo 01</h2>
   <ol>
       <li>Iniciando no HTML5 001 </li>
       <ul>
