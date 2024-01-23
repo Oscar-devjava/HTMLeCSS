@@ -2,6 +2,7 @@
 <body>
   <h1> HTML5 e CSS - Curso em vídeo </h1>
   <h2>Modulo 01</h2>
+  <p> Apartir do modulo 02, ficara dentro da propria branch. Não avendo ramificação</p>
   <ol>
       <li>Iniciando no HTML5 001 </li>
       <ul>
